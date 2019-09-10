@@ -1,10 +1,10 @@
 ﻿using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
-
+//my another effort to learn git
 namespace PartsUnlimited.Models
 {
     public class Category
-    {
+    { 
         public int CategoryId { get; set; }
 
         [Required]

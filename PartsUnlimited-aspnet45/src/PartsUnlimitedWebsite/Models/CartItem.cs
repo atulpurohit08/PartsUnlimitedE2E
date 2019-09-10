@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace PartsUnlimited.Models
 {
-    //My First Sample to learn Git Command and features
+    //My First Sample to learn Git Command and features. Atul Purohit learning 10th Sep, 2019
     public class CartItem : ILineItem
     {
         [Key]
