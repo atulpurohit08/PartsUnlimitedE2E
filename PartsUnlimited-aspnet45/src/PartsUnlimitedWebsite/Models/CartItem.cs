@@ -3,6 +3,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace PartsUnlimited.Models
 {
+    //My First Sample to learn Git Command and features
     public class CartItem : ILineItem
     {
         [Key]
